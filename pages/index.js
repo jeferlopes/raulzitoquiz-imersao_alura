@@ -47,14 +47,14 @@ export default function Home() {
       <meta property="og:description" content="Sabe tudo sobre o grande Raul Seixas?
       Será mesmo?
       Encare o nosso Quiz, e mostre que você é a Mosca na Sopa, e viva a Sociedade Alternativa!" />
-      <meta property="og:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png" />
+      <meta property="og:image" content="http://www.jeferlopes.com.br/quiz/thumb.png" />
       <meta property="twitter:card" content="summary_large_image" />
       <meta property="twitter:url" content="https://metatags.io/" />
       <meta property="twitter:title" content="Raulzito Quiz" />
       <meta property="twitter:description" content="Sabe tudo sobre o grande Raul Seixas?
       Será mesmo?
       Encare o nosso Quiz, e mostre que você é a Mosca na Sopa, e viva a Sociedade Alternativa!" />
-      <meta property="twitter:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png" />
+      <meta property="twitter:image" content="http://www.jeferlopes.com.br/quiz/thumb.png" />
       </Head>
       <QuizContainer>
         <QuizLogo />
